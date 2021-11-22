@@ -1,4 +1,4 @@
-update=22/10/2021 5:36:02 PM
+update=22/11/2021 5:40:18 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -12,7 +12,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=USB-GIGABIT_Rev_C.net
+LastNetListRead=USB-GIGABIT_Rev_B.net
 CopperLayerCount=4
 BoardThickness=1.6
 AllowMicroVias=0
@@ -27,11 +27,12 @@ MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
 TrackWidth1=0.25
 TrackWidth2=0.15494
-TrackWidth3=0.1999
-TrackWidth4=0.3048
-TrackWidth5=0.508
-TrackWidth6=0.762
-TrackWidth7=1.016
+TrackWidth3=0.1778
+TrackWidth4=0.1999
+TrackWidth5=0.3048
+TrackWidth6=0.508
+TrackWidth7=0.762
+TrackWidth8=1.016
 ViaDiameter1=0.7
 ViaDrill1=0.4
 dPairWidth1=0.2
@@ -63,7 +64,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.02
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=2
