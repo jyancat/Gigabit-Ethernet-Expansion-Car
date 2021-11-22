@@ -1,0 +1,21 @@
+= USB-C to Gigabit Ethernet for Framework Laptop
+
+This repo is for the Gig Ether expansion card for the Framework Laptop.
+
+Read about the Framework Laptop https://frame.work[at its home page]
+and 
+https://medium.com/i-tried-that/framework-laptop-saving-the-planet-one-sustainable-laptop-at-a-time-8a4cb71e54a7[at this review site].
+
+FrameWork said they would build an Ethernet card, but that seems to have stalled out
+as they are busy making laptops.
+
+Read about this independent Ethernet Expansion Card project
+https://community.frame.work/t/ethernet-expansion-card/8752[here].
+
+Read how FrameWork is opening up the marketplace to indie vendors
+(like this project, perhaps) 
+https://community.frame.work/t/announcing-the-framework-marketplace/8975[here].
+
+The repo should contain everything you need to make your own.
+When/if it becomes available on the Framework Marketplace, this page
+will have a direct link for ordering.
