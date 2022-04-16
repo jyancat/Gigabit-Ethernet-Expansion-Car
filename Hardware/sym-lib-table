@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name USB-GIGABIT_Rev_C)(type Legacy)(uri ${KIPRJMOD}/USB-GIGABIT_Rev_C.lib)(options "")(descr ""))
+  (lib (name USB-GIGABIT_Rev_B-rescue)(type Legacy)(uri ${KIPRJMOD}/USB-GIGABIT_Rev_B-rescue.lib)(options "")(descr ""))
+)
